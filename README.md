@@ -1,2 +1,2 @@
 # letter_generator
-Project to practice relative path, automize file creation with python
+Project to practice relative pathes and automization of files creation with python
